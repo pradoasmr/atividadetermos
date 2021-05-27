@@ -7,3 +7,4 @@
 
 * Startup 
 * Gestão do conhecimento
+* Impresas nacionais inovadoras
